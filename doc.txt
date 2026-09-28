@@ -1,0 +1,6 @@
+native app: tauri, instead of electron - smaller bundle size and lesser memory usage than electron
+frontend framework: svelte
+filetype detection: magika (better than relying on file extension alone)
+prevents from some malware by exposing the true type of the file (cybersec adjacent)
+adds extension to files with a missing extension, cuz sometimes downloaded files have no extension
+
