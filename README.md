@@ -1,7 +1,13 @@
-# Tauri + SvelteKit + TypeScript
+### ⚠️ This project is a work in progress.
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
+<p align=center>
+<img src="static/logo.png" alt="Description" width="300">
+<h1 align=center>dlorg - downloads organizer</h1>
 
-## Recommended IDE Setup
+dlorg is a fully offline desktop app that organizes a Downloads folder based on file content through Google's `magika` deep-learning model.
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+</p>
+
+## Screenshots
+
+![preview](image.png)
